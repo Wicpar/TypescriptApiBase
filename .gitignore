@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/
+.tscache/
+compiled/
+dist/
+node_modules/
+src/client/
+typings/
